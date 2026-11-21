@@ -4,9 +4,11 @@ Welcome to the support page for **Spirit Quest: Way of the Saints**, an iPhone g
 
 ## Need help with the app?
 
-**[Submit a support request](https://github.com/castinglots/scott/issues/new)**
+**Email support:** [sacredheartstudio@gmail.com](mailto:sacredheartstudio@gmail.com)
 
-You can report a bug, ask a question, or suggest an improvement through the linked support request system. You may need a free GitHub account to submit a request.
+You can email us with questions, bug reports, or feedback about Spirit Quest: Way of the Saints.
+
+You can also **[submit a support request on GitHub](https://github.com/castinglots/scott/issues/new)**. A free GitHub account may be required to submit a request.
 
 **Privacy notice:** Support requests on GitHub Issues are public. Do not include your home address, precise GPS coordinates, contact details, Apple Account credentials, or screenshots containing personal information.
 
@@ -48,10 +50,11 @@ Progress is saved on your device. Removing the app may remove locally saved data
 
 ## How to report a problem
 
-When [submitting a support request](https://github.com/castinglots/scott/issues/new), include the feature affected (Explore, Grace Near Me, Saints in the Park, My Saints, Saintly Treasures, or Profile), a short description of the issue, the app version, and the steps to reproduce it. You may include your general iPhone model and iOS version, but never share private information.
+When emailing [sacredheartstudio@gmail.com](mailto:sacredheartstudio@gmail.com) or [submitting a support request](https://github.com/castinglots/scott/issues/new), include the feature affected (Explore, Grace Near Me, Saints in the Park, My Saints, Saintly Treasures, or Profile), a short description of the issue, the app version, and the steps to reproduce it. You may include your general iPhone model and iOS version, but never share private information.
 
 ---
 
 **App:** Spirit Quest: Way of the Saints  
-**iPhone app support:** [GitHub support requests](https://github.com/castinglots/scott/issues/new)  
+**Support email:** [sacredheartstudio@gmail.com](mailto:sacredheartstudio@gmail.com)  
+**Additional support:** [GitHub support requests](https://github.com/castinglots/scott/issues/new)  
 **Note:** This is the support page for Way of the Saints, not the earlier Spirit Quest game.
