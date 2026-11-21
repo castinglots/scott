@@ -44,3 +44,5 @@ Whether you're a parent exploring with your children, a student learning the his
 Have a question or need help? See the [Spirit Quest: Way of the Saints support page](https://github.com/castinglots/scott/blob/master/WAY_OF_THE_SAINTS_SUPPORT.md) or email **[sacredheartstudio@gmail.com](mailto:sacredheartstudio@gmail.com)**.
 
 **Safety:** Use the app responsibly while walking, follow local rules, stay aware of your surroundings, and respect private property. GPS and camera permissions are required for certain gameplay features.
+
+**Privacy policy:** [Spirit Quest: Way of the Saints Privacy Policy](https://github.com/castinglots/scott/blob/master/WAY_OF_THE_SAINTS_PRIVACY.md)
