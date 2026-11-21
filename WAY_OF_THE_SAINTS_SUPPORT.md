@@ -58,3 +58,5 @@ When emailing [sacredheartstudio@gmail.com](mailto:sacredheartstudio@gmail.com) 
 **Support email:** [sacredheartstudio@gmail.com](mailto:sacredheartstudio@gmail.com)  
 **Additional support:** [GitHub support requests](https://github.com/castinglots/scott/issues/new)  
 **Note:** This is the support page for Way of the Saints, not the earlier Spirit Quest game.
+
+**Privacy policy:** [Spirit Quest: Way of the Saints Privacy Policy](https://github.com/castinglots/scott/blob/master/WAY_OF_THE_SAINTS_PRIVACY.md)
